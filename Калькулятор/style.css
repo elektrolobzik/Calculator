@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+.calc {
+    width: 400px;
+}
+#input {
+    width: 400px;
+    height: 50px;
+    font-size: x-large;
+    padding: 10px;
+}
+#button_delete {
+    width: 400px;
+    height: 40px;
+    background-color: rgb(218, 62, 62);
+}
+.comands_numbers {
+    width: 400px;
+    margin-top: 5px;
+
+}
+
+button {
+    width: 95px;
+}
+.second_row {
+    padding-top: 5px;
+}
+.fourth_row {
+    padding-top: 5px;
+}
+.third_row {
+    padding-top: 5px;
+}
+#button_0 {
+    width: 200px;
+}
+.container {
+    border: 1px black solid;
+    border-radius: 20px 20px 20px 20px;
+    padding: 20px;
+    width: 443px;
+    margin-top: 200px;
+    background-color: rgb(0, 0, 0);
+}
+
+button {
+    background-color: rgb(104, 104, 255);
+    border: 1px black solid;
+    border-radius: 5px 5px 5px 5px;
+
+}
